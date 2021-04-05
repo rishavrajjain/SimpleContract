@@ -1,0 +1,50 @@
+
+ .sidebar .tags {
+    margin-bottom: -10px;
+  }
+  
+   .sidebar .tags ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+   .sidebar .tags ul li {
+    display: inline-block;
+  }
+  
+   .sidebar .tags ul a {
+    color: #515151;
+    font-size: 14px;
+    padding: 6px 14px;
+    margin: 0 6px 8px 0;
+    border: 1px solid #dddddd;
+    display: inline-block;
+    transition: 0.3s;
+    border-radius: 4px;
+  }
+  
+   .sidebar .tags ul a:hover {
+    color: #fff;
+    border: 1px solid #5e72e4;
+    background: #5e72e4;
+  }
+  
+   .sidebar .tags ul a span {
+    padding-left: 5px;
+    color: #aaaaaa;
+    font-size: 14px;
+  }
+
+  input[type=file]::file-selector-button {
+    border: 2px solid white;
+    padding: .2em .4em;
+    border-radius: .2em;
+    background-color: white;
+    transition: 1s;
+    
+  }
+  
+
+  
+
+
